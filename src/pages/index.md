@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 流山おおたかの森で過ごす
-image: /img/52cb8c43-10dd-42d0-955f-01bf3fb77a2d.jpeg
+image: /img/aa7be837-d179-4ee5-93c6-f9fe25752eeb.jpeg
 heading: Great coffee with a conscience
 subheading: 流山おおたかの森のレストラン・イベント情報
 mainpitch:
