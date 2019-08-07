@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 流山おおたかの森で過ごす
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 流山おおたかの森のレストラン・イベント情報
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
