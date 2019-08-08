@@ -100,4 +100,20 @@ export const pageQuery = graphql`
       }
     }
   }
+  
+  const Meta = ({ post }) => {
+  const origin = 'nagareyama.netlify.com';
+
+  return (
+    <Helmet
+      title={`${post.frontmatter.title} | Blog`}
+      meta={[
+        { name: 'description', content: post.frontmatter.description },
+        { property: 'og:title', content: post.frontmatter.title },
+        { property: 'og:description', content: post.frontmatter.description },
+        { property: 'og:image', content: `${origin}${post.frontmatter.image}` },
+      ]}
+    />
+  );
+};
 `
