@@ -2,9 +2,8 @@
 templateKey: index-page
 title: 流山おおたかの森で過ごす
 image: /img/aa7be837-d179-4ee5-93c6-f9fe25752eeb.jpeg
-heading: Great coffee with a conscience
 subheading: 流山おおたかの森のレストラン・イベント情報
-mainpitch:
+<-- mainpitch:
   title: Why Kaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
@@ -66,6 +65,6 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/products-grid1.jpg -->
 ---
 
