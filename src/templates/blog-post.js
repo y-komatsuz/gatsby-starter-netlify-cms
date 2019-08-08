@@ -102,7 +102,7 @@ export const pageQuery = graphql`
   }
   
   const Meta = ({ post }) => {
-  const origin = 'nagareyama.netlify.com';
+  const origin = 'https://nagareyama.netlify.com/';
 
   return (
     <Helmet
